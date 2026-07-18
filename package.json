@@ -1,0 +1,12 @@
+{
+  "name": "ts-sql-engine",
+  "version": "1.0.0",
+  "description": "Pure TypeScript in-memory relational SQL Lexer, Parser, and Query Execution Engine",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "keywords": ["sql", "database", "parser", "lexer", "query-engine"]
+}
